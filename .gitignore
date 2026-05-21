@@ -1,5 +1,11 @@
+
+#Ez az alap beállítás:
 *.dmb
 *.rsc
 *.int
 *.lk
 *.zip
+
+#Ez az én munkám:
+cat.txt
+proba/
